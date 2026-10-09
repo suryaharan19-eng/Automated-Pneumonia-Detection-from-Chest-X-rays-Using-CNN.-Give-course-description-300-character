@@ -1,0 +1,2 @@
+# Automated-Pneumonia-Detection-from-Chest-X-rays-Using-CNN.-Give-course-description-300-character
+This course focuses on detecting pneumonia from chest X-ray images using Convolutional Neural Networks (CNN). It covers image preprocessing, deep learning, model training, and classification to distinguish normal lungs from pneumonia cases, helping improve the speed and accuracy of medical diagnosis.
